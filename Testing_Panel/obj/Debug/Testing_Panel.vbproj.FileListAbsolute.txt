@@ -1,0 +1,13 @@
+D:\VisualBasicProjects\Testing_Panel\Testing_Panel\bin\Debug\Testing_Panel.exe.config
+D:\VisualBasicProjects\Testing_Panel\Testing_Panel\bin\Debug\Testing_Panel.exe
+D:\VisualBasicProjects\Testing_Panel\Testing_Panel\bin\Debug\Testing_Panel.pdb
+D:\VisualBasicProjects\Testing_Panel\Testing_Panel\bin\Debug\Testing_Panel.xml
+D:\VisualBasicProjects\Testing_Panel\Testing_Panel\obj\Debug\Testing_Panel.vbproj.AssemblyReference.cache
+D:\VisualBasicProjects\Testing_Panel\Testing_Panel\obj\Debug\Testing_Panel.Card.resources
+D:\VisualBasicProjects\Testing_Panel\Testing_Panel\obj\Debug\Testing_Panel.Form1.resources
+D:\VisualBasicProjects\Testing_Panel\Testing_Panel\obj\Debug\Testing_Panel.Resources.resources
+D:\VisualBasicProjects\Testing_Panel\Testing_Panel\obj\Debug\Testing_Panel.vbproj.GenerateResource.cache
+D:\VisualBasicProjects\Testing_Panel\Testing_Panel\obj\Debug\Testing_Panel.vbproj.CoreCompileInputs.cache
+D:\VisualBasicProjects\Testing_Panel\Testing_Panel\obj\Debug\Testing_Panel.exe
+D:\VisualBasicProjects\Testing_Panel\Testing_Panel\obj\Debug\Testing_Panel.xml
+D:\VisualBasicProjects\Testing_Panel\Testing_Panel\obj\Debug\Testing_Panel.pdb
